@@ -19,6 +19,9 @@ Functions:
 - alarms when the temperature rises above starting reference temperature (blinking RED led)
 - alarm with sound when the user is not in the visual area of the PIR sensor
 - auto deep sleep the device when the temperature goes above treshold (heaters are off)
+- power via USB cable (testing version)
+- blue LED status on ESP32 board for WiFi connection
+
 
 More pics:
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC2.jpg)
