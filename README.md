@@ -16,7 +16,7 @@ Wiring:
 
 **Functions:**
 - automatic connect to WiFi hotspot
-- alarms when the temperature rises above starting reference temperature/treshold (blinking <span style="color:red">some *red* text</span> LED)
+- alarms when the temperature rises above starting reference temperature/treshold (blinking <span style="color:red">red</span> LED)
 - alarm with sound when the user is not in the visual area of the PIR sensor
 - auto deep sleep the device when the temperature goes below treshold (heaters are off)
 - awake (ON/EN) the device via PIN touch
