@@ -9,12 +9,12 @@ Components:
 - Buzzer
 
 Wiring:
-![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/Sheme_ESP32_CC.png)\
+![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/Sheme_ESP32_CC.png)
 
 
 <a href="url"><img src="https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC1.jpg" align="right" width="450" ></a>
 
-Functions:
+**Functions:**
 - automatic connect to WiFi hotspot
 - alarms when the temperature rises above starting reference temperature (blinking RED led)
 - alarm with sound when the user is not in the visual area of the PIR sensor
