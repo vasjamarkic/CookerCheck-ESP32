@@ -11,7 +11,7 @@ Components:
 Wiring:
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/Sheme_ESP32_CC.png)\
 Pics of the device:
-![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC1.jpg =200x)
+![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC1.jpg = 200x)
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC2.jpg)
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC3.jpg)
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/PIC4.jpg)
