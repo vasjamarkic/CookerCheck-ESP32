@@ -16,9 +16,9 @@ Wiring:
 
 **Functions:**
 - automatic connect to WiFi hotspot
-- alarms when the temperature rises above starting reference temperature (blinking RED led)
+- alarms when the temperature rises above starting reference temperature/treshold (blinking <span style="color:red">some *red* text</span> LED)
 - alarm with sound when the user is not in the visual area of the PIR sensor
-- auto deep sleep the device when the temperature goes above treshold (heaters are off)
+- auto deep sleep the device when the temperature goes below treshold (heaters are off)
 - awake (ON/EN) the device via PIN touch
 - power via USB cable (testing version)
 - blue LED status on ESP32 board for WiFi connection
