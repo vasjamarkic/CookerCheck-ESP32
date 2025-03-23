@@ -10,6 +10,7 @@ Components:
 
 The device sends data to IoT Arduino Cloud: https://app.arduino.cc/things
 The Dashbord shows 5 different data: 
+![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/DashboardIotArduino.png)
 
 Wiring:
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/Sheme_ESP32_CC.png)
