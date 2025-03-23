@@ -8,6 +8,9 @@ Components:
 - RGB LED diode showing working/temperature status
 - Buzzer
 
+The device sends data to IoT Arduino Cloud: https://app.arduino.cc/things
+The Dashbord shows 5 different data: 
+
 Wiring:
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/Sheme_ESP32_CC.png)
 
