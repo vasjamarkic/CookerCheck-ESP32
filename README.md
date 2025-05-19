@@ -9,7 +9,7 @@ Components:
 - Buzzer
 
 The device sends data to IoT Arduino Cloud: https://app.arduino.cc/things
-The Dashbord shows 5 different data: 
+The Dashbord shows 5 different data:  
 ![image](https://github.com/vasjamarkic/CookerCheck-ESP32/blob/main/DashboardIotArduino.png)
 
 Wiring:
